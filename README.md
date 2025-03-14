@@ -80,28 +80,6 @@ pip install pymongo pandas xgboost scikit-learn joblib matplotlib streamlit open
 
 ---
 
-## Running the System
-1. **Module 1: Dining Data Analysis & Prediction**
-   ```bash
-   python module1_script.py
-   ```
-
-2. **Module 2: Hotel Booking System**
-   ```bash
-   streamlit run module2_script.py
-   ```
-
-3. **Module 3: Customer Review System**
-   ```bash
-   streamlit run module3.py
-   ```
-
-4. **Module 4: Hotel Data Analytics Dashboard**
-   ```bash
-   streamlit run module4.py
-   ```
-
----
 
 ## Configuration
 - **MongoDB Connection:** Update the connection string in each module to connect to your MongoDB instance.
